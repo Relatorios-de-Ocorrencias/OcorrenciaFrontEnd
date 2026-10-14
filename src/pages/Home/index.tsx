@@ -1,4 +1,3 @@
-import { useNavigate } from "react-router";
 import { BottomNav } from "../../componentes/Components/BottomNav";
 import { TopBar } from "../../componentes/Components/TopBar";
 import { NovosRelatorios } from "./components/NovosRelatorios";
